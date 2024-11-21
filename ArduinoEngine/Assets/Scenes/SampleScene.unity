@@ -501,6 +501,9 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bbbe2ec523988cca60dfd1b2ef7f8cc1c50cdd01
 --- !u!1 &1061954152
 GameObject:
 =======
@@ -653,8 +656,11 @@ Transform:
     varianceClampScale: 0.9
     contrastAdaptiveSharpening: 0
 >>>>>>> 799df648c7fd7a00d4d2036008d52eee30a0b401
+<<<<<<< HEAD
 =======
 >>>>>>> parent of db5cbad (негр)
+=======
+>>>>>>> bbbe2ec523988cca60dfd1b2ef7f8cc1c50cdd01
 --- !u!1 &1415862262
 GameObject:
   m_ObjectHideFlags: 0
@@ -810,5 +816,8 @@ SceneRoots:
 =======
   - {fileID: 325158023}
 >>>>>>> 799df648c7fd7a00d4d2036008d52eee30a0b401
+<<<<<<< HEAD
 =======
 >>>>>>> parent of db5cbad (негр)
+=======
+>>>>>>> bbbe2ec523988cca60dfd1b2ef7f8cc1c50cdd01
